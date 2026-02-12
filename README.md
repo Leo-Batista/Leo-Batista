@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Leonardo Batista da Silva
 
-**`Desenvolvedora FullStack`**
+**`Estudante de programação mobile`**
 
 Prazer sou o Leonardo, estudante de ciência da computação pela descomplica, tenho 24 anos e meu objetivo e me tornar um programador mobile
 

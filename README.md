@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🧑🏻‍💻 Leonardo Batista da Silva
 
-<!--
-**Leo-Batista/Leo-Batista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedora FullStack`**
 
-Here are some ideas to get you started:
+Prazer sou o Leonardo, estudante de ciência da computação pela descomplica, tenho 24 anos e meu objetivo e me tornar um programador mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+
